@@ -4,7 +4,7 @@ Hi 👋 My name is Safwan Backar
 Software developer
 ------------------
 
-\> I code everyday. I like to mess aroung with HTML | CSS | Javascript | NodeJS | ExpressJS | React | MongoDB | Bootstrap | Git | VS Code 
+\> I code everyday. I like to mess around with HTML | CSS | Javascript | NodeJS | ExpressJS | React | MongoDB | Bootstrap | Git | VS Code 
 
 *   🌍  I'm based in Calicut
 *   ✉️  You can contact me at [safwanbackar29@gmail.com](mailto:safwanbackar29@gmail.com)
