@@ -7,7 +7,7 @@ Software developer
 \> I code everyday. I like to mess around with HTML | CSS | Javascript | NodeJS | ExpressJS | React | MongoDB | Bootstrap | Git | VS Code 
 
 *   🌍  I'm based in Calicut
-*   ✉️  You can contact me at safwanbackar(mailto:safwanbackar29@gmail.com)
+*   ✉️  You can contact me at safwanbackar29@gmail.com
 *   🧠  I'm learning ReactJS
 *   ⚡  Can i breathe code ?
 ### Skills
