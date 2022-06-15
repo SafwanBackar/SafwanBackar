@@ -4,7 +4,7 @@ Hi 👋 My name is Safwan Backar
 Software developer
 ------------------
 
-\ I like coding.
+I like coding.
 
 *   🌍  I'm based in Calicut
 *   ✉️  You can contact me at safwanbackar29@gmail.com
