@@ -1,7 +1,7 @@
-Hi 👋 My name is Safwan Backar
+Hi there, my name is Safwan Backar
 ==============================
 
-Software developer
+Software developer 
 ------------------
 
 I like coding.
