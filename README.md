@@ -8,7 +8,7 @@ I like coding.
 
 *   🌍  I'm based in Calicut
 *   ✉️  You can contact me at safwanbackar29@gmail.com
-*   🧠  I'm learning ReactJS
+*   🧠  I'm learning ReactJS.
 
 ### Skills
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
