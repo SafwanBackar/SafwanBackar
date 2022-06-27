@@ -6,7 +6,7 @@ Software developer
 
 I like coding.
 
-*   🌍  I'm based in Calicut
+*   🌍  I'm based in Calicut.
 *   ✉️  You can contact me at safwanbackar29@gmail.com
 *   🧠  I'm learning ReactJS.
 
