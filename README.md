@@ -4,10 +4,9 @@ Hi there, my name is Safwan Backar
 Software developer 
 ------------------
 
-I like coding.
 
-*   🌍  I'm based in Calicut
-*   ✉️  You can contact me at safwanbackar29@gmail.com
+*   🌍  From Kerala, India
+*   ✉️  You can contact me at sbackar29@gmail.com
 *   🧠  I'm learning ReactJS.
 
 ### Skills
