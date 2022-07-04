@@ -5,8 +5,8 @@ Software developer
 ------------------
 
 
-*   🌍  From Kerala, India
-*   ✉️  You can contact me at sbackar29@gmail.com
+*   🌍  Kerala, India
+*   ✉️  safwanbackar.tech
 *   🧠  I'm learning ReactJS.
 
 ### Skills
