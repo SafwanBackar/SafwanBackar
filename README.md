@@ -1,4 +1,4 @@
-Hi there, my name is Safwan Backar
+Hi there, I'am Safwan Backar.
 ==============================
 
 Software developer 
