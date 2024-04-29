@@ -7,7 +7,7 @@ Software developer
 
 *   🌍  Kerala, India
 *   ✉️  safwanbackar.tech
-*   🧠  I'm learning ReactJS.
+*   🧠  Im learning everything i possibly can about latest technologies, programming, framework, libraries, tools, clouding, devops and whole other bunch of stuff.
 
 ### Skills
 <p align="left"> 
