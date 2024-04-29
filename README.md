@@ -5,9 +5,10 @@ Software developer
 ------------------
 
 
-*   🌍  Kerala, India
-*   ✉️  safwanbackar.tech
-*   🧠  Im learning everything i possibly can about latest technologies, programming, framework, libraries, tools, clouding, devops and whole other bunch of stuff.
+*   🌍  India
+*   ✉️  safwanbackar29@gmail.com
+*   🌍  Freelancer with Full-Stack Developer Experience | Also familiar and experienced in OdooERP management.
+*   🧠  Im learning everything i possibly can about latest technologies, programming, framework, libraries, tools, clouding, devops, sys architectures and whole other bunch of stuff.
 
 ### Skills
 <p align="left"> 
